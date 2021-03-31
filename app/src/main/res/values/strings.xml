@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PinnPlanner</string>
+    <string name="taskTitle">Task Title</string>
+    <string name="taskDesc" >Task Description</string>
+    <string name="taskDate">Task Date</string>
+    <string name="taskTime">Task Time</string>
+</resources>
